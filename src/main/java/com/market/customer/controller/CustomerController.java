@@ -18,7 +18,6 @@ import com.market.customer.entity.CustomerEntity;
 import com.market.customer.model.Product;
 import com.market.customer.service.CustomerService;
 
-
 @RestController
 public class CustomerController {
 	private static final Logger logger = LoggerFactory.getLogger(CustomerController.class);
